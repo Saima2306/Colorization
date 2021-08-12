@@ -7,4 +7,5 @@ pytorch >= 0.4.0 or 1.0
 
 # Getting Started:
 1. Clone this repository:
-   g
+   git clone https://github.com/Saima2306/Colorization.git
+   cd Colorization
