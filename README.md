@@ -3,7 +3,7 @@ This respository is used for Colorization of black and white images using Lab co
 
 # Requirements:
 ```
-Python == 3.6 <br />
+Python == 3.6
 pytorch >= 0.4.0 or 1.0
 ```
 # Getting Started:
@@ -23,7 +23,7 @@ Frames will be extracted into the folder,images
 ### Testing:
 #### Testing on Images:
 ```python inferenece_on_images.py```
-Result will be saved in output
+
 #### Testing on Videos:
 ```python inference_on_videos.py```
 Result will be saved in out_video
