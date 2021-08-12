@@ -4,3 +4,5 @@ This respository is used for Colorization of black and white images using Lab co
 # Requirement:
 Python == 3.6
 pytorch >= 0.4.0 or 1.0
+
+#Getting Started:
