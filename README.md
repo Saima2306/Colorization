@@ -20,3 +20,10 @@ Frames will be extracted into the folder,images
 
 ### Training:
 ``` python train.py ```
+### Testing:
+#### Testing on Images:
+```python inferenece_on_images.py```
+Result will be saved in output
+#### Testing on Videos:
+```python inference_on_videos.py```
+Result will be saved in out_video
