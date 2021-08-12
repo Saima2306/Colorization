@@ -6,6 +6,6 @@ Python == 3.6
 pytorch >= 0.4.0 or 1.0
 
 # Getting Started:
-1. Clone this repository:
-   git clone https://github.com/Saima2306/Colorization.git
+1. Clone this repository:<br />
+   git clone https://github.com//Saima2306/Colorization.git <br />
    cd Colorization
